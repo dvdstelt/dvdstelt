@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+Dennis is a contractor, with specializations as a software developer, solution architect, trainer/coach, and international speaker at conferences. More information can be found on [compilesoftware.nl](https://compilesoftware.nl/)
+
+Currently working for [Particular Software](https://particular.net/), makers of [NServiceBus](https://particular.net/nservicebus/).
+
+You can reach him at dennis@compilesoftware.nl or [Twitter/X](https://twitter.com/dvdstelt) and [LinkedIn](https://www.linkedin.com/in/dvdstelt/).
 
 <!--
 **dvdstelt/dvdstelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
